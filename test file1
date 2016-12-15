@@ -1,0 +1,5 @@
+#incloud<iostream.h>
+
+main{
+  printf("hallo world!");
+}
